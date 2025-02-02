@@ -112,7 +112,7 @@ Key benefits of using `range()`:
 Example usage:
 
 ```python
-# Basic range with stop values
+# Basic range with stop value
 for i in range(5):
     print(i)  # Prints 0, 1, 2, 3, 4
 
